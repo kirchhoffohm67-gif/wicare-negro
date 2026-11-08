@@ -1,0 +1,4 @@
+.pio/
+.vscode/
+platformio-device-monitor-*.log
+.git_viejo/
